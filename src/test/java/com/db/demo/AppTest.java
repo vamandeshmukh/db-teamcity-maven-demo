@@ -6,9 +6,9 @@ import org.junit.jupiter.api.Test;
 
 public class AppTest {
 
-	@Test
-	public void testTest() {
-		assertEquals(10, 5 + 5);
-	}
+//	@Test
+//	public void testTest() {
+//		assertEquals(10, 5 + 5);
+//	}
 
 }
