@@ -16,6 +16,11 @@ public class CalcTest {
 
 	@Test
 	public void testAddNums2() {
+		assertEquals(10, calc.addNums(5, 5));
+	}
+
+	@Test
+	public void testAddNums3() {
 		assertNotEquals(10, calc.addNums(5, 10));
 	}
 }
