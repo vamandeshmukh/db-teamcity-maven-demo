@@ -14,8 +14,4 @@ public class CalcTest {
 		assertEquals(15, calc.addNums(5, 10));
 	}
 
-	@Test
-	public void testAddNums2() {
-		assertNotEquals(10, calc.addNums(5, 10));
-	}
 }
